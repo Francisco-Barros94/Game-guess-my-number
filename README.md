@@ -17,7 +17,7 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## Guess My Number is a game, which you need to choose a number between 1 and 20 with tips.
+## Guess My Number is a game, which you need to choose a number between 1 and 20.
 
 Here's the link: https://game-guessmynumber.netlify.app/
 
